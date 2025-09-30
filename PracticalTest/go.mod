@@ -1,3 +1,3 @@
-module github.com/Asepimam/Test-Be
+module PracticalTest
 
 go 1.25.0
